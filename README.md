@@ -6,9 +6,10 @@ This is the second Readme file that i am able to commit at GitHub, i am supper e
 
 
 #**below are some skilles i have sofar learned**
- -using the terminal
- -understanding git and github
- -working with lists
- -working wiith links and images 
- -working with html tags and elements
- -understanding the semantic html
+
+-using the terminal
+-understanding git and github
+-working with lists
+-working wiith links and images 
+-working with html tags and elements
+-understanding the semantic html
